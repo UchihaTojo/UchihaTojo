@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @UchihaTojo
-- 👀 I’m interested in learning Cybersecurity and Ethical Hacking, ML, AI, FPGA, VLSI, and IoT.
-- 🌱 I’m currently pursuing B.Tech in IT
+- 👀 I’m interested in learning and doing projects on Embedded Systems and IoT, Cybersecurity and Ethical Hacking, ML, AI, FPGA, and VLSI.
+- 🌱 I’m currently working full-time!
 - 📫 How to reach me? Well just mail me at sayantandas932@gmail.com
 
 <!---
